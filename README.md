@@ -1,8 +1,11 @@
-# Arc-en-Ciel White Paper 2024
-Welcome to the official repository for the Arc-en-Ciel DAO white paper.  
-🌈 **Explore groundbreaking ideas on harmony, governance, and blockchain technology.**  
+# Arc-en-Ciel White Paper 2025  
 
-👉 [Download the white paper](./whitepaper.pdf)
+This repository contains the **official white paper** of Tantra Sound Club and the Arc-en-Ciel project.  
 
-## About Arc-en-Ciel
-Arc-en-Ciel DAO is inspired by the seven colors of the data spectrum, merging art, technology, and decentralization. Learn more in our white paper!
+🔗 **Download the full version here:**  
+[WHITE PAPER TSC (24_01_2025) *FULL VERSION*](https://github.com/TANTRASOUND7/Arc-en-Ciel-White-Paper-2024/blob/main/WHITE%20PAPER%20TSC%20(24_01_2025)%20*FULL%20VERSION*%20.pdf)  
+
+This document explores the **integration of sound, color, and blockchain technologies**, redefining NFT structures beyond traditional binary systems.  
+
+For inquiries or collaborations, contact: **connect@tantrasound.club**  
+
